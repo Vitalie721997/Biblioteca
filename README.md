@@ -12,6 +12,8 @@ Acest site oferă informație despre biblioteci ...
 
 S-a creat pagina principală, care este o pagină introductivă, cu informație de bază. aici am utilizat tabele, paragrafe, imagini ți am făcut continut responsive.
 
+![principala](https://user-images.githubusercontent.com/75493349/103309131-ebc49200-4a1c-11eb-85a7-f418fa5decb0.png)
+
 ### Contacte
 
 Pe pagina de contacte am folosit liste, iframe pentru includerea hartilor, impartirea pe coloane, elemente pozitionate absolut (telefonul, distribuire, etc)
